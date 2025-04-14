@@ -51,5 +51,4 @@ You can find it by searching for the **ESP32-CAM MJPEG stream example** in Espre
 
 Roger YT.Lo--NTUST ECE  
 Email: roger020739@gmail.com  
-ECE, NTUST  
 
