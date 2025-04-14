@@ -47,3 +47,9 @@ We use the standard MJPEG streaming example provided by Espressif. Due to licens
 You can find it by searching for the **ESP32-CAM MJPEG stream example** in Espressif’s GitHub repository or Arduino IDE examples.
 
 
+## Contact
+
+Roger YT.Lo--NTUST ECE  
+Email: roger020739@gmail.com  
+ECE, NTUST  
+
