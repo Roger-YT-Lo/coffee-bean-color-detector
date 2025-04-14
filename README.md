@@ -46,6 +46,4 @@ These HSV ranges are used to classify bean colors. You may tweak them depending 
 We use the standard MJPEG streaming example provided by Espressif. Due to licensing concerns, the source code is **not included** in this repository.  
 You can find it by searching for the **ESP32-CAM MJPEG stream example** in Espressif’s GitHub repository or Arduino IDE examples.
 
-## License
 
-This project is licensed under the **Apache License 2.0**.
